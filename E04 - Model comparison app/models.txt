@@ -1,0 +1,8 @@
+BiSeNet (resnet18),model_BiSeNet_resnet18.pkl
+CGNet,model_CGNet.pkl
+ContextNet,model_ContextNet.pkl
+DeepLabV3Plus (resnet50),model_DeepLabV3Plus_resnet50.pkl
+DenseASPP (resnet101),model_DenseASPP_resnet101.pkl
+FPENet,model_FPENet.pkl
+HRNet (hrnetW32),model_HRNet_hrnetW32.pkl
+OCNet (resnet50),model_OCNet_resnet50.pkl
